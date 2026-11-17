@@ -1,0 +1,15 @@
+Fontes hospedadas neste site (woff2, subset latin, baixadas de fonts.gstatic.com em 2026-11-15
+a partir da CSS do Google Fonts). As três são distribuídas sob a SIL Open Font License 1.1:
+https://openfontlicense.org (texto completo: https://openfontlicense.org/open-font-license-official-text/)
+O aviso de copyright de cada uma está dentro do próprio arquivo (tabela "name").
+
+- montserrat-latin-var.woff2 ......... Montserrat (variável, pesos 400-800), The Montserrat Project Authors
+                                       https://github.com/JulietaUla/Montserrat
+- pinyon-script-latin-400.woff2 ...... Pinyon Script 400, Nicole Fally
+                                       https://fonts.google.com/specimen/Pinyon+Script
+- playfair-display-latin-600-italic.woff2  Playfair Display Italic 600, The Playfair Display Project Authors
+                                       https://github.com/clauseggers/Playfair-Display
+
+A OFL permite uso comercial, embutir em sites e redistribuir junto com o site; não permite vender
+as fontes sozinhas. Se as fontes forem modificadas (ex.: novo subset), o nome "Reserved Font Name"
+pode precisar mudar; usar como estão.
